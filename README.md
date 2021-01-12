@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<img width="30%" align="right" alt="Github" src="https://drive.google.com/uc?export=download&id=1yv_dwthMxKU76oouabeJyckS6LzRjxA1" />
+<img width="35%" align="right" alt="Github" src="https://drive.google.com/uc?export=download&id=1yv_dwthMxKU76oouabeJyckS6LzRjxA1" />
 I am a student at Stanford University🌲 studying Computer Science 💻  with a concentration in Artificial Intelligence 🧠. 
 This is my Github. Here you can find various projects that I am working on. 
 
-My Interests: 
+**My Interests:** 
 - 🤖 Artificial Intelligence  
 - 💻 Software/Web Development  
 - 🧪 Medicine
