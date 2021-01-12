@@ -7,7 +7,7 @@ I am a student at Stanford University🌲 studying Computer Science 💻  with a
 - 🤖 Artificial Intelligence  
 - ⌨️ Software/Web Development  
 - 🧪 Medicine
-- 🧠 Philosophy
+- 🤔 Philosophy
 
 <!--
 **rosikand/rosikand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
