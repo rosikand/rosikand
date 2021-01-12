@@ -6,7 +6,7 @@ This is my Github. Here you can find various projects that I am working on.
 
 **My Interests:** 
 - 🤖 Artificial Intelligence  
-- 💻 Software/Web Development  
+- ⌨️ Software/Web Development  
 - 🧪 Medicine
 - 🧠 Philosophy
 
