@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img width="30%" align="right" alt="Github" src="https://drive.google.com/uc?export=download&id=1yv_dwthMxKU76oouabeJyckS6LzRjxA1" />
-
+This is my Github. Here you can find various projects that I am working on. 
 I am a student at Stanford University🌲 studying Computer Science 💻  with a concentration in Artificial Intelligence 🧠. 
 
 <!--
