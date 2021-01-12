@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a student at Stanford University🌲 studying Computer Science 💻  with a concentration in Artificial Intelligence 🧠. 
+
 <!--
 **rosikand/rosikand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
