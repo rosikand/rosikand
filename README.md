@@ -9,7 +9,7 @@ I am a student at Stanford University🌲 studying Computer Science 💻  with a
 - 🧪 Medicine
 - 🤔 Philosophy
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://rosikand.github.io/]
 
 
 <!--
