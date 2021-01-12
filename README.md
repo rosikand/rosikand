@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="35%" align="right" alt="Github" src="https://drive.google.com/file/d/1AAcQAzkfAORzZvrYoh9QFY469qOH0pYi/view?usp=sharing" />
+<img width="35%" align="right" alt="Github" src="https://drive.google.com/uc?export=download&id=1AAcQAzkfAORzZvrYoh9QFY469qOH0pYi" />
 
 I am a student at Stanford University🌲 studying Computer Science 💻  with a concentration in Artificial Intelligence 🧠. 
 
