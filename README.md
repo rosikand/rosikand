@@ -1,6 +1,7 @@
 ### Hi there 👋
-
+<!--
 <img width="40%" align="right" alt="Github" src="https://drive.google.com/uc?export=download&id=1yv_dwthMxKU76oouabeJyckS6LzRjxA1" />
+-->
 I am a student at Stanford University🌲 studying Computer Science 💻  with a concentration in Artificial Intelligence 🧠. 
 
 #### My Interests:
