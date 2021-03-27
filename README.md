@@ -6,7 +6,8 @@ I am a student at Stanford University🌲 studying Computer Science 💻  with a
 
 #### My Interests:
 - 🤖 Artificial Intelligence  
-- ⌨️ Software/Web Development  
+- ⌨️ Software/Web Development
+- 💰 Blockchain/Crypto  
 - 🧪 Medicine
 - 🤔 Philosophy of Mind
 
