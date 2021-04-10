@@ -8,7 +8,7 @@ I am a student at Stanford University🌲 studying Computer Science 💻  with a
 - 🤖 Artificial Intelligence  
 - ⌨️ Software/Web Development
 - 💰 Blockchain/Crypto  
-- 🧪 Medicine
+- 🧪 Medicine/Genomics
 - 🤔 Philosophy of Mind
 
 #### Links:
